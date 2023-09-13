@@ -94,3 +94,7 @@ section .text-container .text-box h3{
     font-size: larger;
     padding-bottom: 20px;
 }
+.gifz{
+    display: flex;
+    justify-content: space-around;
+}
